@@ -1,0 +1,8 @@
+name=input("enter the name")
+rollno=input("enter the rollno")
+place=input("enter the place")
+cource=input("enter the cource")
+print("name="+name)
+print("rollno="+rollno)
+print("place="+place)
+print("course="+cource)
