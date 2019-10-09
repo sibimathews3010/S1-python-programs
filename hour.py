@@ -1,4 +1,4 @@
-print("sallary for hours")
+print("salary for hours")
 H=int(input("enter the number of hours worked:"))
 Rate=r=int(input("enter the rate:"))
 S1=H*10
