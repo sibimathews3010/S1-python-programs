@@ -8,5 +8,6 @@ for i in string:
 	else:
 		consonent=consonent+1
 print("no of vowels=",vowel)
+//i am eligible
 print("no of non vowels=",consonent)
 	
