@@ -4,7 +4,7 @@ def pro(a,b):
 
 
 
-a=int(input("enter the no:"))
-b=int(input("enter the no:")) 
+a=int(input("enter the number:"))
+b=int(input("enter the number:")) 
 P=pro(a,b)
 print(a,"X",b,"=",P)
